@@ -1,0 +1,11 @@
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\bin\Debug\net9.0\BEC.Domain.deps.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\bin\Debug\net9.0\BEC.Domain.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\bin\Debug\net9.0\BEC.Domain.pdb
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\BEC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\BEC.Domain.AssemblyInfoInputs.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\BEC.Domain.AssemblyInfo.cs
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\BEC.Domain.csproj.CoreCompileInputs.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\BEC.Domain.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\refint\BEC.Domain.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\BEC.Domain.pdb
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Domain\obj\Debug\net9.0\ref\BEC.Domain.dll

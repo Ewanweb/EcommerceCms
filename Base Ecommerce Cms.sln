@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Ecommerce Cms", "Base Ecommerce Cms\Base Ecommerce Cms.csproj", "{594EA527-0D40-4821-91C4-E50223AD58B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEC.Infrastructure", "BEC.Infrastructure\BEC.Infrastructure.csproj", "{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594EA527-0D40-4821-91C4-E50223AD58B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594EA527-0D40-4821-91C4-E50223AD58B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594EA527-0D40-4821-91C4-E50223AD58B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594EA527-0D40-4821-91C4-E50223AD58B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

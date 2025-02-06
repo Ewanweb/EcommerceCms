@@ -1,0 +1,236 @@
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\appsettings.Development.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\appsettings.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.staticwebassets.runtime.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.staticwebassets.endpoints.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.exe
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.deps.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.runtimeconfig.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Base Ecommerce Cms.pdb
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.AssemblyInfoInputs.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.AssemblyInfo.cs
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.csproj.CoreCompileInputs.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.MvcApplicationPartsAssemblyInfo.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.RazorAssemblyInfo.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.RazorAssemblyInfo.cs
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\scopedcss\bundle\Base Ecommerce Cms.styles.css
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\scopedcss\projectbundle\Base Ecommerce Cms.bundle.scp.css
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\bs6dkho9ax-b9sayid5wm.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\dxwjjeeqsw-61n19gt1b8.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\jk5punbht2-xtxxf3hu2r.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\zehstma0sx-bqjiyaj88i.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\kt7npumxhg-c2jlpeoesf.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\teasc51233-erw9l3u2r3.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\vunyaiplyo-aexeepp0ev.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\9zl2t094xj-d7shbmvgxk.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\5eu96aij94-ausgxo2sd3.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\xovw4uh2vg-k8d9w2qqmf.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\1mfxf6hkco-cosvhxvwiu.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\zsx5ko2tyv-ub07r2b239.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\txrcq8x54k-fvhpjtyr6v.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\6gnzvxm6h3-b7pk76d08c.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\yt12yu6yk8-fsbi9cje9m.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\q1ir42gw98-rzd6atqjts.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\xp9vkihm5v-ee0r1s7dh0.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\k7hz6irm7x-dxx9fxp4il.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\yz18uh8uf5-jd9uben2k1.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\9c0cmuydtl-khv3u5hwcm.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\6tbc9769b7-r4e9w2rdcm.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\54rplplhf3-lcd1t2u6c8.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\8qsvom59qr-c2oey78nd0.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\3zegk07scz-tdbxkamptv.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\8uke7d0xoo-j5mq2jizvt.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\o404lkxtp2-06098lyss8.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\h7l02qnqfw-nvvlpmu67g.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\wpxhule9es-s35ty4nyc5.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\le7on46n1o-pj5nd1wqec.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\hzweswbgbx-46ein0sx1k.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\w1nku1bkhz-v0zj4ognzu.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\upd0ldf63d-37tfw0ft22.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\26etmu9n5r-hrwsygsryq.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\7hyw1s4sk2-pk9g2wxc8p.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\kpruxyzi78-ft3s53vfgj.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\86ucynyz97-6cfz1n2cew.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\azudisozh0-6pdc2jztkx.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\dnwku1jg9w-493y06b0oq.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\3cueuck7il-iovd86k7lj.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\ltxo2ll3w3-vr1egmr9el.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\fhvoid2oak-kbrnm935zg.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\59dhrp3w7u-jj8uyg4cgr.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\gir2gf9djg-y7v9cxd14o.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\1rzms9kbjl-notf2xhcfb.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\yb4vasaqtj-h1s4sie4z3.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\xbde0nvhq2-63fj8s7r0e.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\m4nqmog2ta-0j3bgjxly4.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\v0f0ad587n-47otxtyo56.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\i22pdk0btd-4v8eqarkd7.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\1bofrmyd78-356vix0kms.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\unxf8e3qx3-83jwlth58m.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\cz1smcve8r-mrlpezrjn3.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\yh0nlry38d-lzl9nlhx6b.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\ddpqtofmn3-ag7o75518u.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\0cbhsskp2v-x0q3zqp4vz.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\puhmnazwcu-0i3buxo5is.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\dnpimmk9ky-o1o13a6vjx.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\lvz6kj9vcy-ttgo8qnofa.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\3eonqpfypd-2z0ns9nrw6.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\hs7wu152tv-muycvpuwrr.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\5y80w3rplk-87fc7y1x7t.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\c3tbg06ufl-mlv21k5csn.gz
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets.build.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets.development.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets\msbuild.Base Ecommerce Cms.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets\msbuild.Base Ecommerce Cms.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets\msbuild.build.Base Ecommerce Cms.props
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Base Ecommerce Cms.props
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Base Ecommerce Cms.props
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\refint\Base Ecommerce Cms.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.pdb
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.genruntimeconfig.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\ref\Base Ecommerce Cms.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Azure.Core.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Azure.Identity.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.ClientModel.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Text.Json.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\BEC.Infrastructure.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\BEC.Infrastructure.pdb
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Ecommerce Cms.csproj.AssemblyReference.cache
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\Base Eco.49AA1EC4.Up2Date
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Humanizer.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.CodeDom.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\BEC.Domain.dll
+D:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\bin\Debug\net9.0\BEC.Domain.pdb
+d:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+d:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\fy9d5j4lbz-hqp8ifapk4.gz
+d:\Developer\Projects\ASP\Base Ecommerce Cms\Base Ecommerce Cms\obj\Debug\net9.0\compressed\npyvp9e5n2-hqp8ifapk4.gz
