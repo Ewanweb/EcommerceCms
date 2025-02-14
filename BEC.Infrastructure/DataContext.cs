@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BEC.Domain.Admin;
+using Microsoft.EntityFrameworkCore;
 
 namespace BEC.Infrastructure
 {

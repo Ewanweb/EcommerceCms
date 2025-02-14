@@ -15,3 +15,4 @@ D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Infrastructure\obj\Debug\net9.0
 D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Infrastructure\bin\Debug\net9.0\BEC.Domain.dll
 D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Infrastructure\bin\Debug\net9.0\BEC.Domain.pdb
 D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Infrastructure\obj\Debug\net9.0\BEC.Infr.5159428E.Up2Date
+D:\Developer\Projects\ASP\Base Ecommerce Cms\BEC.Infrastructure\obj\Debug\net9.0\BEC.Infrastructure.sourcelink.json

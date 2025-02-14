@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\base ecommerce cms\\areas\\admin\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|solutionrelative:base ecommerce cms\\areas\\admin\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}|BEC.Infrastructure\\BEC.Infrastructure.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\bec.infrastructure\\servicesregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}|BEC.Infrastructure\\BEC.Infrastructure.csproj|solutionrelative:bec.infrastructure\\servicesregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}|BEC.Infrastructure\\BEC.Infrastructure.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\bec.infrastructure\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD3BDB4-27E1-4C55-9116-761884AFC9BB}|BEC.Infrastructure\\BEC.Infrastructure.csproj|solutionrelative:bec.infrastructure\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\base ecommerce cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|solutionrelative:base ecommerce cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\base ecommerce cms\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|solutionrelative:base ecommerce cms\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\base ecommerce cms\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|solutionrelative:base ecommerce cms\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|d:\\developer\\projects\\asp\\base ecommerce cms\\base ecommerce cms\\components\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594EA527-0D40-4821-91C4-E50223AD58B0}|Base Ecommerce Cms\\Base Ecommerce Cms.csproj|solutionrelative:base ecommerce cms\\components\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,52 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PagesController.cs",
-              "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Areas\\Admin\\Controllers\\PagesController.cs",
-              "RelativeDocumentMoniker": "Base Ecommerce Cms\\Areas\\Admin\\Controllers\\PagesController.cs",
-              "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Areas\\Admin\\Controllers\\PagesController.cs",
-              "RelativeToolTip": "Base Ecommerce Cms\\Areas\\Admin\\Controllers\\PagesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T13:31:54.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\BEC.Infrastructure\\DataContext.cs",
-              "RelativeDocumentMoniker": "BEC.Infrastructure\\DataContext.cs",
-              "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\BEC.Infrastructure\\DataContext.cs",
-              "RelativeToolTip": "BEC.Infrastructure\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:18:52.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Program.cs",
               "RelativeDocumentMoniker": "Base Ecommerce Cms\\Program.cs",
               "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Program.cs",
               "RelativeToolTip": "Base Ecommerce Cms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:06:22.277Z"
+              "WhenOpened": "2025-02-14T14:51:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Base Ecommerce Cms\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "Base Ecommerce Cms\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T14:48:11.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServicesRegister.cs",
-              "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\BEC.Infrastructure\\ServicesRegister.cs",
-              "RelativeDocumentMoniker": "BEC.Infrastructure\\ServicesRegister.cs",
-              "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\BEC.Infrastructure\\ServicesRegister.cs",
-              "RelativeToolTip": "BEC.Infrastructure\\ServicesRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "Base Ecommerce Cms\\Controller\\HomeController.cs",
+              "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Controller\\HomeController.cs",
+              "RelativeToolTip": "Base Ecommerce Cms\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:48:28.712Z",
+              "WhenOpened": "2025-02-14T14:43:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Components\\MenuViewComponent.cs",
+              "RelativeDocumentMoniker": "Base Ecommerce Cms\\Components\\MenuViewComponent.cs",
+              "ToolTip": "D:\\Developer\\Projects\\ASP\\Base Ecommerce Cms\\Base Ecommerce Cms\\Components\\MenuViewComponent.cs",
+              "RelativeToolTip": "Base Ecommerce Cms\\Components\\MenuViewComponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:42:48.284Z",
               "EditorCaption": ""
             }
           ]

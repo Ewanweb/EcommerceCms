@@ -11,6 +11,6 @@ namespace Base_Ecommerce_Cms.Components
     public class MenuViewComponent(DataContext context) : ViewComponent
     {
         private readonly DataContext _context  = context;
-        public async Task<IViewComponentResult> InvokeAsync() => View(await _context.Pages.ToListAsync());
+        public async Task<IViewComponentResult> InvokeAsync() => View(await _context.Pages.OrderBy(x => x.Order).ToListAsync());
     }
 }

@@ -21,7 +21,7 @@ namespace BEC.Infrastructure.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("BEC.Domain.Page", b =>
+            modelBuilder.Entity("BEC.Domain.Admin.Page", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -33,11 +33,14 @@ namespace BEC.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("Order")
+                        .HasColumnType("int");
+
                     b.Property<string>("Slug")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Title")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -49,6 +52,7 @@ namespace BEC.Infrastructure.Migrations
                         {
                             Id = 1,
                             Body = "This is the Home Page",
+                            Order = 0,
                             Slug = "home",
                             Title = "Home"
                         },
@@ -56,6 +60,7 @@ namespace BEC.Infrastructure.Migrations
                         {
                             Id = 2,
                             Body = "This is the About Page",
+                            Order = 0,
                             Slug = "about",
                             Title = "About"
                         },
@@ -63,6 +68,7 @@ namespace BEC.Infrastructure.Migrations
                         {
                             Id = 3,
                             Body = "This is the Services Page",
+                            Order = 0,
                             Slug = "services",
                             Title = "Services"
                         },
@@ -70,6 +76,7 @@ namespace BEC.Infrastructure.Migrations
                         {
                             Id = 4,
                             Body = "This is the Contact Page",
+                            Order = 0,
                             Slug = "contact",
                             Title = "Contact"
                         });

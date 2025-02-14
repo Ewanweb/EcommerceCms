@@ -1,1 +1,1 @@
-global using BEC.Domain;
+global using BEC.Domain.Admin;

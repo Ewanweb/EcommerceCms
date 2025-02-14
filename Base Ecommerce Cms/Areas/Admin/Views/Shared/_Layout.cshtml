@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Base_Ecommerce_Cms</title>
+    <title>@ViewData["Title"] - Base Ecommerce Cms </title>
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
@@ -21,7 +21,10 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nva-item">
-                            <a asp-controller="Dashboard" class="nav-link text-dark">Dashboard</a>
+                            <a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" class="nav-link text-dark">Dashboard</a>
+                        </li>
+                        <li class="nva-item">
+                            <a asp-area="Admin" asp-controller="Pages" asp-action="Index" class="nav-link text-dark">Pages</a>
                         </li>
                     </ul>
                 </div>
@@ -30,6 +33,7 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
+            <partial name="_NotificationsPartial" />
             @RenderBody()
         </main>
     </div>
@@ -42,6 +46,8 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>
