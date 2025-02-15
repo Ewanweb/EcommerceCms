@@ -1,6 +1,7 @@
 ﻿using BEC.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Base_Ecommerce_Cms.Controllers
 {
@@ -12,11 +13,13 @@ namespace Base_Ecommerce_Cms.Controllers
         {
             _context = context;
         }
-        public async Task<IActionResult> IndexAsync(string? slug)
+        public async Task<IActionResult> Index(string slug = "")
         {
-            var page = string.IsNullOrEmpty(slug)
-                ? await _context.Pages.OrderBy(x => x.Order).FirstOrDefaultAsync()
-                : await _context.Pages.FirstOrDefaultAsync(x => x.Slug == slug);
+            slug = slug.IsNullOrEmpty() ? "home" : slug;
+            Page page = await _context.Pages.OrderBy(x => x.Order).Where(x => x.Slug == slug).FirstOrDefaultAsync();
+
+            if (page == null) 
+                return NotFound();
 
             return View(page);
         }

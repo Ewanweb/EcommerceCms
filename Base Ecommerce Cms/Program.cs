@@ -33,7 +33,7 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "Pages",
-    pattern: "{slug=home}/{controller=Pages}/{action=Index}/{id?}")
+    pattern: "{slug?}/{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 
